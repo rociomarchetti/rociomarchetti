@@ -3,8 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rocío-marchetti-16031986/)](https://www.linkedin.com/in/rocío-marchetti-16031986/)
 [![Gmail Badge](https://img.shields.io/badge/-marchettirociob@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marchettirociob@gmail.com)](mailto:marchettirociob@gmail.com)
 
-- 🔭 I’m currently working on my own app, a collaborative writing game. 
-- 👯 I’m looking to collaborate on new web development projects as a front-end developer.
 - 🌱 2023 goals: contribute to open source projects.
 - ⚡ About me: I used to write stories with words, and now I do it through code
 - 😄 Pronouns: she/her
