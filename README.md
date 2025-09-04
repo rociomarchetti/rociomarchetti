@@ -1,20 +1,54 @@
-### Hi! 👋 I'm Rocío Marchetti, a junior front-end developer
+# Hi, I'm Rocío 👋  
+**Frontend Developer | Angular • React • Next.js**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rocío-marchetti-16031986/)](https://www.linkedin.com/in/rocío-marchetti-16031986/)
-[![Gmail Badge](https://img.shields.io/badge/-marchettirociob@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marchettirociob@gmail.com)](mailto:marchettirociob@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roc%C3%ADo-marchetti-16031986/?locale=en_US)
+[![Email](https://img.shields.io/badge/Email-march__ettirociob%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:marchettirociob@gmail.com)
 
-- 🌱 2023 goals: contribute to open source projects.
-- ⚡ About me: I used to write stories with words, and now I do it through code
-- 😄 Pronouns: she/her
+---
 
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=angular)](https://github.com/harish-sethuraman/readme-components)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+## 👩‍💻 About Me  
+🚀 Frontend Developer passionate about building scalable, performant, and accessible web applications.  
+Since 2023, I’ve been working with **Angular (v17–19)**, **React**, and **Next.js**, creating reusable components, implementing state management, and contributing to tech stack migrations.  
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Angular Material](https://img.shields.io/badge/-AngularMaterial-C62828?style=flat-square&logo=angular)
+I enjoy combining creativity with strong engineering practices such as **Domain-Driven Design (DDD)**, **Test-Driven Development (TDD)**, and agile workflows.  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rociomarchetti&hide_progress=true)](https://github.com/rociomarchetti/github-readme-stats)
+---
+
+## 🛠️ Tech Stack  
+
+**Core Technologies**  
+- Angular (17–19), React, Next.js, TypeScript  
+
+**UI & Styling**  
+- Tailwind CSS, Angular Material, SASS, HTML5, CSS3  
+
+**Architecture & Patterns**  
+- DDD, Monorepos (Nx), Custom Hooks, React Query  
+
+**Testing & Best Practices**  
+- Jest (TDD), Accessibility, Responsive & Mobile-first  
+
+**Methodologies & Workflow**  
+- Scrum, Gitflow  
+
+---
+
+## 💼 Experience Highlights  
+- ⚡ Developed a SPA in Angular with **monorepo architecture** and **DDD principles**.  
+- 🔄 Migrated a large-scale project from **Angular to React/Next.js**, implementing Tailwind and React Query.  
+- 🧩 Contributed to the creation and maintenance of an **accessible, framework-independent library of user interface components**.  
+
+---
+
+## 🎓 Education  
+- Frontend Development (Angular, Vue) — *IT Academy & La Salle BCN*  
+- Backend Development (Java) — *TecnoCampus UPF*  
+- English: **B2 First Certificate**  
+
+---
+
+## 🌐 Let’s Connect!  
+- [LinkedIn](https://www.linkedin.com/in/roc%C3%ADo-marchetti-16031986/?locale=en_US)  
+- 📫 Email: marchettirociob@gmail.com  
+
 
