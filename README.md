@@ -13,7 +13,9 @@ Since 2023, I’ve been working with **Angular (v17–19)**, **React**, and **Ne
 I enjoy combining creativity with strong engineering practices such as **Domain-Driven Design (DDD)**, **Test-Driven Development (TDD)**, and agile workflows.  
 
 You can take a look at PASTAPP, a pasta recipe project I created with a modular structure, reusable user interface components, and reactive state management with RxJS.
-[Check pastapp repository](https://github.com/rociomarchetti/pastapp)
+[CHECK PASTAPP IN ACTION HERE](https://pastapp.netlify.app/recipes)
+
+[(Or check pastapp repository here)](https://github.com/rociomarchetti/pastapp)
 
 ---
 
