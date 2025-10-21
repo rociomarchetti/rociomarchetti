@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me  
 🚀 Frontend Developer passionate about building scalable, performant, and accessible web applications.  
-Since 2023, I’ve been working with **Angular (v17–19)**, **React**, and **Next.js**, creating reusable components, implementing state management, and contributing to tech stack migrations.  
+Since 2023, I’ve been working mostly with **Angular (v17–19)** creating reusable components, implementing state management, and contributing to tech stack migrations.  
 
 I enjoy combining creativity with strong engineering practices such as **Domain-Driven Design (DDD)**, **Test-Driven Development (TDD)**, and agile workflows.  
 
