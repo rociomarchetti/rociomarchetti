@@ -2,15 +2,17 @@
 
 Frontend Developer with a focus on **Angular**, clean architecture, and scalable SPAs. Since 2023 I've been part of teams building real production apps — and I care a lot about writing code that's well-structured, testable, and maintainable.
 
-[CHECK TASK MANAGER IN ACTION HERE](https://task-manager-now.netlify.app)
-
-[(Or check repository here)](https://github.com/rociomarchetti/task-manager)
-
 ---
 
 ## 🚀 Featured Project — Task Manager
 
 > A full-featured task management app built with Angular, designed with production-level architecture principles from the ground up.
+
+[CHECK TASK MANAGER IN ACTION HERE](https://task-manager-now.netlify.app)
+
+[(Or check repository here)](https://github.com/rociomarchetti/task-manager)
+
+<img width="1918" height="862" alt="login-dashboard-gif" src="https://github.com/user-attachments/assets/1cfd3701-988e-4c99-9e1d-54f5a2a9bb9a" />
 
 ### Architecture & Design Patterns ⭐
 - **Domain-Driven Design (DDD)** — clear separation between domain, application, and infrastructure layers
