@@ -1,59 +1,89 @@
-# Hi, I'm Rocío 👋  
-**Frontend Developer | Angular • React • Next.js**
+# Hi, I'm Rocío 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roc%C3%ADo-marchetti-16031986/?locale=en_US)
-[![Email](https://img.shields.io/badge/Email-marchettirociob%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:marchettirociob@gmail.com)
+Frontend Developer with a focus on **Angular**, clean architecture, and scalable SPAs. Since 2023 I've been part of teams building real production apps — and I care a lot about writing code that's well-structured, testable, and maintainable.
 
----
+[CHECK TASK MANAGER IN ACTION HERE](https://task-manager-now.netlify.app)
 
-## 👩‍💻 About Me  
-🚀 Frontend Developer passionate about building scalable, performant, and accessible web applications.  
-Since 2023, I’ve been working mostly with **Angular (v17–19)** creating reusable components, implementing state management, and contributing to tech stack migrations.  
-
-I enjoy combining creativity with strong engineering practices such as **Domain-Driven Design (DDD)**, **Test-Driven Development (TDD)**, and agile workflows.  
-
-You can take a look at PASTAPP, a pasta recipe project I created with a modular structure, reusable user interface components, and reactive state management with RxJS.
-[CHECK PASTAPP IN ACTION HERE](https://pastapp.netlify.app/recipes)
-
-[(Or check pastapp repository here)](https://github.com/rociomarchetti/pastapp)
+[(Or check repository here)](https://github.com/rociomarchetti/task-manager)
 
 ---
 
-## 🛠️ Tech Stack  
+## 🚀 Featured Project — Task Manager
 
-**Core Technologies**  
-- Angular (17–19), React, Next.js, TypeScript  
+> A full-featured task management app built with Angular, designed with production-level architecture principles from the ground up.
 
-**UI & Styling**  
-- Tailwind CSS, Angular Material, SASS, HTML5, CSS3  
+### Architecture & Design Patterns ⭐
+- **Domain-Driven Design (DDD)** — clear separation between domain, application, and infrastructure layers
+- **Facade pattern** — encapsulates domain logic, keeping components lean and decoupled
+- **Modular architecture** — organized by feature/domain for scalability and maintainability
+- **Nx monorepo tooling** — structured workspace with enforced boundaries between libraries
+- **Standalone components + Angular Signals** — written with the modern Angular idiom (v17+)
 
-**Architecture & Patterns**  
-- DDD, Monorepos (Nx), Custom Hooks, React Query  
+### State Management ⭐
+- **NgRx** for global state management across tasks and boards
+- **Effects** for handling async operations cleanly
+- **Selectors** for derived, memoized state queries
+- **Reducers** following immutable state update patterns
 
-**Testing & Best Practices**  
-- Jest (TDD), Accessibility, Responsive & Mobile-first  
+### Testing ⭐
+- **TDD with Jest** applied to all domain logic files: facades, effects, reducers, and selectors
+- High confidence coverage on business-critical paths
 
-**Methodologies & Workflow**  
-- Scrum, Gitflow  
+### Angular Features
+- Reactive forms with custom validations and complex state handling
+- Lazy loading per section (Dashboard, Board list) for optimized initial load
+- Route guards based on authentication state
+- Drag and drop to reorder tasks and update their status within a board
+
+### UI & UX
+- Reusable component library: modal, panel, button — composable and context-agnostic
+- Search and filter functionality (functional, not cosmetic)
+- Responsive, mobile-first UI design
+
+### Core Concepts Applied
+- Full CRUD operations
+- Business logic isolated in services — not in components
+- REST API integration with loading and error state handling
 
 ---
 
-## 💼 Experience Highlights  
-- ⚡ Developed a SPA in Angular with **monorepo architecture** and **DDD principles**.  
-- 🔄 Migrated a large-scale project from **Angular to React/Next.js**, implementing Tailwind and React Query.  
-- 🧩 Contributed to the creation and maintenance of an **accessible, framework-independent library of user interface components**.  
+## 🛠 Tech Stack
+
+**Core:** Angular (17–20) · TypeScript · RxJS · NgRx · React · Next.js
+
+**Architecture:** DDD · Nx Monorepos · Standalone Components · Angular Signals · Facades · Custom Hooks · React Query
+
+**UI:** Angular Material · Tailwind CSS · HTML5 & CSS3 · SASS
+
+**Testing & Practices:** TDD · Jest · Responsive / Mobile-first · Accessibility · Scrum
 
 ---
 
-## 🎓 Education  
-- Frontend Development (Angular, Vue) — *IT Academy & La Salle BCN*  
-- Backend Development (Java) — *TecnoCampus UPF*  
-- English: **B2 First Certificate**  
+## 📚 Background
+
+- **Frontend Developer @ Deale** (May 2023 – Jul 2025) — SPA with Angular 19, DDD monorepo, NgRx, TDD with Jest, and a custom mobile-first UI component library
+- **Freelance Frontend – E-commerce** (Sep–Dec 2025) — Domain-based Angular 20 platform with NgRx, Signals, REST APIs, and automated testing
+- **Freelance Frontend – Admin Panel** (Mar 2026 – present) — Angular 20 admin dashboard with reactive forms, dynamic tables (filter, search, pagination), and RxJS state management
 
 ---
 
-## 🌐 Let’s Connect!  
-- [LinkedIn](https://www.linkedin.com/in/roc%C3%ADo-marchetti-16031986/?locale=en_US)  
-- 📫 Email: marchettirociob@gmail.com  
+## 🎓 Education
 
+- Frontend Developer – Angular · IT Academy Barcelona Activa (2022–2023)
+- Frontend Developer – Vue · La Salle BCN (2022)
+- Backend Developer – Java · TecnoCampus UPF (2022)
+- Angular v17+ update course · Udemy (2025)
 
+---
+
+## 🌍 Languages
+
+- Spanish — Native
+- English — B2 First Certificate (Cambridge, May 2022)
+
+---
+
+## 📬 Get in touch
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rocío_Marchetti-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rocío-marchetti-16031986)
+- marchettirociob@gmail.com · 📞 (+34) 635 190 593
