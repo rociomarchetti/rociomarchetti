@@ -29,7 +29,7 @@ Frontend Developer with a focus on **Angular**, clean architecture, and scalable
 
 ### Testing ⭐
 - **TDD with Jest** applied to all domain logic files: facades, effects, reducers, and selectors
-- High confidence coverage on business-critical paths
+- Coverage: **91% statements · 61.91% branches · 84.23% functions · 91.41% lines**
 
 ### Angular Features
 - Reactive forms with custom validations and complex state handling
