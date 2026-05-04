@@ -12,7 +12,7 @@ Frontend Developer with a focus on **Angular**, clean architecture, and scalable
 
 [(Or check repository here)](https://github.com/rociomarchetti/task-manager)
 
-<img width="1918" height="864" alt="Grabación 2026-05-04 093909" src="https://github.com/user-attachments/assets/e8a747eb-97f8-4e0c-823e-0da315bf6b89" />
+<img width="1916" height="866" alt="gif inicio" src="https://github.com/user-attachments/assets/2b90ce4d-1062-46aa-962a-06132f48b575" />
 
 ### Architecture & Design Patterns ⭐
 - **Domain-Driven Design (DDD)** — clear separation between domain, application, and infrastructure layers
